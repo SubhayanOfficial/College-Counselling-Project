@@ -5,6 +5,7 @@ Our Online College Counselling is one of the best opportunities for those who ca
 This project is aimed at developing an Online College Counselling. This project is going to develop for the College admission. We are preparing web based software where the students can book their Seat. College can also interact with Students and maintain their seat. The Online College Counselling provides a website for booking college Course seat where any Students of internet can access it. Students is required to login to the system and book their preferable college course.
 Course Counseling helps Students to find a career path and gives you the right direction towards your goal. Benefits of College Counselling and Course Counselling is a crucial step towards a focused career.
 It also helps Students to set an achievable goal and helps Students to get trained for future obstacles. During course counseling, you are told about the upcoming hurdles, decisions you have to make, and career prospects Students can choose during and after the course completion.
+
 Front Page 
 ![WhatsApp Image 2024-07-20 at 8 21 44 PM](https://github.com/user-attachments/assets/86a3244b-b3df-4e14-8c0b-8bdab761acee)
 Registration Page
